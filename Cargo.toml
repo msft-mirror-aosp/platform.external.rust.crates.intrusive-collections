@@ -13,7 +13,7 @@
 [package]
 edition = "2018"
 name = "intrusive-collections"
-version = "0.9.0"
+version = "0.9.1"
 authors = ["Amanieu d'Antras <amanieu@gmail.com>"]
 description = "Intrusive collections for Rust (linked list and red-black tree)"
 documentation = "https://docs.rs/intrusive-collections"
