@@ -5,6 +5,5 @@
   ],
   "dependencies": true,
   "device": true,
-  "patch": "patches/Android.bp.patch",
   "run": true
 }
