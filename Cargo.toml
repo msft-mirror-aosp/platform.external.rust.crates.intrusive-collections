@@ -12,7 +12,7 @@
 [package]
 edition = "2018"
 name = "intrusive-collections"
-version = "0.9.4"
+version = "0.9.5"
 authors = ["Amanieu d'Antras <amanieu@gmail.com>"]
 description = "Intrusive collections for Rust (linked list and red-black tree)"
 documentation = "https://docs.rs/intrusive-collections"
@@ -31,7 +31,7 @@ license = "Apache-2.0/MIT"
 repository = "https://github.com/Amanieu/intrusive-rs"
 
 [dependencies.memoffset]
-version = "0.5.4"
+version = "0.8"
 
 [dev-dependencies.rand]
 version = "0.8.4"
